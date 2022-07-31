@@ -1,0 +1,34 @@
+
+/*------------ Bebas Neue Google font --------------*/
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@400;500&display=swap');
+
+
+
+/*----------- Color -----------*/
+.bg-header{
+    background-color: #FFF9F4;
+}
+.nike-primary{
+    color: #FA804C;
+}
+.nike-secondary{
+    color: #363958;
+}
+.nike-button-color{
+    background-color: #3847CE;
+}
+
+
+
+/*----------- Fonts ---------------*/
+.bebas-neue{
+    font-family: 'Bebas Neue', cursive;
+    
+}
+
+.nike-font-bold{
+    font-weight: 700;
+}
+.popins{
+    font-family: 'Poppins', sans-serif;
+}
